@@ -1,2 +1,2 @@
 # turbo-fishstick
-Test Repo
+the turbo-fishstick repository 
